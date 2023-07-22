@@ -45,14 +45,14 @@ To use the MultiPDF Chat App, follow these steps:
    ```
    streamlit run app.py
 
-
-## HOW IT LOOKS 
-   ```![Screenshot from 2023-07-22 18-39-44](https://github.com/vinayaktiwari/PDF_chat_bot/assets/26620896/5e5899d8-ede5-400c-b129-53fd9f9fbf5c)
-
-
-
 3. The application will launch in your default web browser, displaying the user interface.
 
 4. Load multiple PDF documents into the app by following the provided instructions.
 
 5. Ask questions in natural language about the loaded PDFs using the chat interface.
+
+
+## HOW IT LOOKS 
+
+![Screenshot from 2023-07-22 18-39-44](https://github.com/vinayaktiwari/PDF_chat_bot/assets/26620896/8d678e26-4875-45d8-b60a-2968350196d1)
+
