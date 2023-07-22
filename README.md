@@ -53,6 +53,6 @@ To use the MultiPDF Chat App, follow these steps:
 
 
 ## HOW IT LOOKS 
+![Screenshot from 2023-07-22 18-51-35](https://github.com/vinayaktiwari/PDF_chat_bot/assets/26620896/ca9d29f8-0d75-4c50-af75-f327bcb4d863)
 
-![Screenshot from 2023-07-22 18-39-44](https://github.com/vinayaktiwari/PDF_chat_bot/assets/26620896/8d678e26-4875-45d8-b60a-2968350196d1)
 
